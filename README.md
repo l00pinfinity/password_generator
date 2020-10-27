@@ -1,7 +1,9 @@
 Generating Password and OTP in Java
 
-##Method 1
+##Method 1(pass.java)
+
 Java program explaining the generation of OTP(One Time Password) 
 
-##Method 2
+##Method 2(otp.java)
+
 Java program explaining the generation of Password
